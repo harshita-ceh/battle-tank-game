@@ -8,3 +8,8 @@ Overview:
 
 ~ Shooting mechanism for both player and enemy tank
 
+Snippets:
+
+![image](https://user-images.githubusercontent.com/71144962/165119288-47974fd1-6467-4426-bb54-aa21587e5694.png)
+
+
