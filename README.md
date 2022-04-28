@@ -10,8 +10,8 @@ Overview:
 
 Snippets:
 
+![image](https://user-images.githubusercontent.com/71144962/165779610-34b644cb-d90b-403b-85be-198e68b49830.png)
 
-![GYjN](https://user-images.githubusercontent.com/71144962/165120527-7dbe8f26-9fef-4e05-a16f-4e9901c9bb9e.gif)
 
 
 
